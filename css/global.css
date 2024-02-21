@@ -440,6 +440,9 @@ body{
     color: #FFF;
     line-height: 100px;
 }
+.section-banner .why-choose-us-head h1 span{
+    font-weight: lighter;
+}
 .section-banner .why-choose-us-head p{
     margin: 0;
     padding: 0;
@@ -1540,15 +1543,6 @@ body{
     font-size: 12px;
     float: right;
 }
-
-
-
-
-
-
-
-
-
 .section-our-services .services-thumbnail-container{
     margin: 70px -10px 0;
     padding: 0;
@@ -1998,7 +1992,7 @@ body{
     margin: 0;
     padding: 0;
     display: grid;
-    grid-template-columns: repeat(5,1fr);
+    grid-template-columns: repeat(7,1fr);
     column-gap: 0;
 }
 .section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech{
@@ -2026,11 +2020,16 @@ body{
 .section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(7),
 .section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(8),
 .section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(9),
-.section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(10){
+.section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(10),
+.section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(12),
+.section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(13),
+.section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(14){
     border-left: none;
 }
 .section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(5),
-.section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(10){
+.section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(10),
+.section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(7),
+.section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(14){
     border-right: none;
 }
 
@@ -6320,16 +6319,20 @@ body{
 .section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech img {
     height: auto;
 }
-.section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(5){
+.section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(5),
+.section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(7){
     border-right: 1px solid #F2F3F5;
 }
 .section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(2),
 .section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(4),
 .section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(6),
-.section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(8){
+.section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(8),
+.section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(12){
     border-right: none;
 }
-
+.section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(11){
+    border-left: none;
+}
 .section-our-portfolio .our-portfolio-container .box .image-container {
     height: auto;
     min-height: auto;

@@ -1219,7 +1219,8 @@ body{
     text-align: center;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.10);
     width: 100%;
-    max-width: 220px;
+    /* max-width: 220px; */
+    max-width: 190px;
     height: 64px;
     line-height: 64px;
     color: #ffffff;
@@ -3945,7 +3946,6 @@ body{
 
 }
 
-
 @media only screen and (max-width: 1650.99px) {
 
 .section-banner .why-choose-us-head h1 {
@@ -4066,7 +4066,6 @@ body{
 
 
 }
-
 
 @media only screen and (max-width: 1485.99px) {
 
@@ -4412,7 +4411,6 @@ body{
 
 
 }
-
 
 @media only screen and (max-width: 1350.99px) {
 
@@ -4906,7 +4904,6 @@ body{
 
 
 }
-
 
 @media only screen and (max-width: 1130.99px) {
 
@@ -5589,7 +5586,6 @@ body{
 
 }
 
-
 @media only screen and (max-width: 992.99px) {
 
 .section-banner .why-choose-us-head h1 {
@@ -6091,11 +6087,11 @@ body{
     line-height: 36px;
 }
 .section-ready-to-our-professional .our-professional-heading a {
-    margin: 10px 10px 0 0px;
-    font-size: 14px;
-    max-width: 140px;
-    height: 44px;
-    line-height: 44px;
+    margin: 10px 8px 0 0px;
+    font-size: 12px;
+    max-width: 120px;
+    height: 36px;
+    line-height: 36px;
 }
 .section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-left {
     width: calc(100% - 0px);
@@ -6489,9 +6485,9 @@ body{
 .section-ready-to-our-professional .our-professional-heading a {
     margin: 10px 5px 0 0px;
     font-size: 10px;
-    max-width: 100px;
-    height: 32px;
-    line-height: 32px;
+    max-width: 85px;
+    height: 28px;
+    line-height: 28px;
 }
 .section-footer .footer-row {
     padding: 0 30px;

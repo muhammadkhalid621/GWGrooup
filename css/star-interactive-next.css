@@ -5,8 +5,13 @@ body {
     width: 100%;
     height: 100%;
     cursor: default;
-    background-color: #ffffff;
-    /* background: linear-gradient(180deg, #5B93C7 0%, #9DBEDD 100%); */
+    background-color: #ffffff; 
+    /* background-color: url(../images/home-next-page-background.svg), #000;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background: linear-gradient(180deg, #5B93C7 0%, #9DBEDD 100%); */
+    
 }
 
 .filter {

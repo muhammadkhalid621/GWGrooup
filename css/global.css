@@ -4059,7 +4059,10 @@ body{
 .section-about-us .about-us-left p {
     font-size: 22px;
 }
-
+.section-our-portfolio .our-portfolio-container .box .image-container {
+    height: auto;
+    min-height: auto;
+}
 
 
 
@@ -4404,7 +4407,10 @@ body{
     height: 250px;
     min-height: 250px;
 }
-
+.section-our-portfolio .our-portfolio-container .box .image-container {
+    height: auto;
+    min-height: auto;
+}
 
 
 
@@ -4897,7 +4903,10 @@ body{
 .header-nav-menu .wrapper ul {
     padding: 0 50px 0 0;
 }
-
+.section-our-portfolio .our-portfolio-container .box .image-container {
+    height: auto;
+    min-height: auto;
+}
 
 
 
@@ -5578,7 +5587,10 @@ body{
 .section-bottom-arrow .change-section.menu-btm-rotate {
     margin: 55px 0 0 80px;
 }
-
+.section-our-portfolio .our-portfolio-container .box .image-container {
+    height: auto;
+    min-height: auto;
+}
 
 
 

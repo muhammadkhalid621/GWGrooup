@@ -11,7 +11,7 @@ body {
     background: url(../images/home-page-background.svg), linear-gradient(180deg, #5B93C7 0%, #9DBEDD 100%);
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: center bottom;
 }
 
 .filter {

@@ -2010,7 +2010,8 @@ body{
     margin: 0;
     padding: 0;
     max-width: 100%;
-    height: 114px;
+    /* height: 114px; */
+    height: auto;
 }
 .section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(1),
 .section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(2),
@@ -2027,7 +2028,7 @@ body{
 .section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(14){
     border-left: none;
 }
-.section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(5),
+/* .section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(5), */
 .section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(10),
 .section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(7),
 .section-tools-and-technologies .tools-and-technologies-container > .tools-row .tools-technologies-right .tools-technologies-logo .inner-logo-tech:nth-child(14){
